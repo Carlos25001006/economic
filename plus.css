@@ -1,0 +1,37 @@
+.a {
+    background-color: #666666;
+
+}
+
+.b {
+    font-size: 36px;
+    font-weight:bold;
+}
+
+.b1 {
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.c {
+    float: left;
+}
+
+.c1 {
+    float:right
+}
+
+.e {
+    float: right;
+    width: 660px;
+}
+
+.h {
+     width: 100px;
+     height: 390px;
+}
+
+.w {
+    max-width:  1300px;
+    margin: auto;
+}
